@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojonarte/simple-node-server.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Jojo Narte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojonarte/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/jojonarte/simple-node-server#readme"
+}
