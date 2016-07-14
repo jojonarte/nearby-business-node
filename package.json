@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/jojonarte/simple-node-server/issues"
   },
-  "homepage": "https://github.com/jojonarte/simple-node-server#readme"
+  "homepage": "https://github.com/jojonarte/simple-node-server#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "foursquare-venues": "0.0.3",
+    "node-googleplaces": "^0.1.2",
+    "yelp": "^1.0.1"
+  }
 }
